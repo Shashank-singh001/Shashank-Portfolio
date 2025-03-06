@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Shashank Singh </span>
             from <span className="purple"> Kanpur, India.</span>
             <br />
-            I have B.Tech 3 year Student at IIT Patna. 
+            I am B.Tech 3 year Student at IIT Patna. 
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -21,7 +21,7 @@ function AboutCard() {
               <ImPointRight /> Playing Games
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Watching Anime
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling
